@@ -1,8 +1,8 @@
 import { Row } from "./Row";
 import { Banner } from "./Banner";
 import { requests } from "./request";
-import "./App.css";
 import { Nav } from "./Nav";
+import "./App.css";
 
 const App = () => {
   return (
